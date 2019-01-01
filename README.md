@@ -17,3 +17,7 @@ Deployment can be on any server
 ## How To Contribute
 
 Test
+
+### Copyright
+
+2019 Git Complete
