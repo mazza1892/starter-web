@@ -16,7 +16,7 @@ Deployment can be on any server
 
 ## How To Contribute
 
-Test
+Please fork this repo and then issue a Pull Requests for review
 
 ### Copyright
 
