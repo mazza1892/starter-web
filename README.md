@@ -21,4 +21,4 @@ Please fork this repo and then issue a Pull Requests for review
 
 ### Copyright
 
-2019 Git Complete
+2019 Git Complete. all rights reserved
